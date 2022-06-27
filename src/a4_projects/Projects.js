@@ -22,11 +22,11 @@ function Projects() {
                         img={imgOne}
                         description={"CSS, JavaScript, TypeScript, React, Redux, Material UI,Using TypeScript for best code control,Bug fixing, deploying,Covering code with unit tests."}
                         link={"https://raitasu.github.io/todolist"}/>
-                    <Project
-                        title={"Counter"}
-                        img={imgTwo}
-                        description={"My first project with React/Redux/TS.I left It here as a memory."}
-                        link={"https://raitasu.github.io/todolist"}/>
+                    {/*<Project*/}
+                    {/*    title={"Counter"}*/}
+                    {/*    img={imgTwo}*/}
+                    {/*    description={"My first project with React/Redux/TS.I left It here as a memory."}*/}
+                    {/*    link={"https://raitasu.github.io/social-network"}/>*/}
 
                     <Project
                         title={"The social network"}
@@ -34,17 +34,17 @@ function Projects() {
                         description={"SCSS,JavaScript,TypeScript,React,Redux,Redux-thunk,Formik,Axios,Reselect,TypeScript,Refactoring,bug fixing,deploying,Organizing correct app architecture; Covering code with unit tests. "}
                         link={"https://raitasu.github.io/sotial-network/"}/>
 
-                    <Project
-                        title={"Study Point"}
-                        img={imgFour}
-                        description={"It was a command work. App for learning some cards"}
-                        link={"https://raitasu.github.io/todolist"}/>
+                    {/*<Project*/}
+                    {/*    title={"Study Point"}*/}
+                    {/*    img={imgFour}*/}
+                    {/*    description={"It was a command work. App for learning some cards"}*/}
+                    {/*    link={"https://raitasu.github.io/todolist"}/>*/}
 
                     <Project
                         title={"Midas pizza"}
                         img={imgFive}
                         description={"ReactJS,TypeScript,Redux Toolkit, React Router v6, Axios + Fetch,React Hooks,Prettier,CSS-Modules/SCSS,React Content Loader,React Pagination,Lodash.Debounce,Code Splitting, React Loadable, useWhyDidYouUpdate"}
-                        link={"https://raitasu.github.io/midas-pizza"}/>
+                        link={"https://raitasu.github.io/midas-pizza/"}/>
 
                     <Project
                         title={"future project"}
