@@ -32,7 +32,7 @@ function Projects() {
                         title={"The social network"}
                         img={imgThree}
                         description={"SCSS,JavaScript,TypeScript,React,Redux,Redux-thunk,Formik,Axios,Reselect,TypeScript,Refactoring,bug fixing,deploying,Organizing correct app architecture; Covering code with unit tests. "}
-                        link={"https://raitasu.github.io/sotial-network/"}/>
+                        link={"https://raitasu.github.io/social-network/"}/>
 
                     {/*<Project*/}
                     {/*    title={"Study Point"}*/}
