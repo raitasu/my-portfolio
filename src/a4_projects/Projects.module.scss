@@ -1,18 +1,17 @@
 @import './../common/styles/sass/mixins';
 
 .projectsBlock {
-  padding: 80px 0 0;
+  padding: 80px 0 ;
 
   .projectsContainer {
     justify-content: flex-start;
     flex-direction: column;
     display: flex;
-    flex-wrap: wrap;
     @include container();
-
     .projects {
-      column-count: 4;
-      margin: 60px 100px 0;
+      column-count: 2;
+
+
       @media only screen and (max-width: 499px) {
         & {
           column-count: 1;
